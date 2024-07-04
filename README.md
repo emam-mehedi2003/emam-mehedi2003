@@ -1,5 +1,6 @@
 # Hi there 👋
-## I'm **Emam Mehedi** ##### Software Engineer
+## I'm **Emam Mehedi**
+##### Software Engineer
 
 ##### 💼 Skills
 - Front-end development (HTML, CSS, JavaScript)
