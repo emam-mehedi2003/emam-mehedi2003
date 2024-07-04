@@ -8,7 +8,6 @@
 - Database management (SQL, MongoDB)
 - DevOps (Docker, CI/CD)
 
-.
 ##### 🌟 Interests
 - Open-source projects
 - Machine learning
