@@ -1,16 +1,24 @@
-# Hi there 👋
+### Hi there 👋
+### I'm **Emam Mehedi**
+#### *Software Engineer*
+![*Software Engineer*](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**emam-mehedi2003/emam-mehedi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 💼 Skills
+- Front-end development (HTML, CSS, JavaScript)
+- Back-end development (Node.js, Python)
+- Database management (SQL, MongoDB)
+- DevOps (Docker, CI/CD)
 
-Here are some ideas to get you started:
+##### 🌟 Interests
+- Open-source projects
+- Machine learning
+- Contributing to developer communities
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🚀 Projects
+- {}
+- {}
+
+
+-### 🌐 Connect with Me
+- https://www.facebook.com/emammehedi2003
+- 
