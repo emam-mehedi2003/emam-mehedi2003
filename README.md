@@ -20,10 +20,5 @@
 
 
 -### 🌐 Connect with Me
-- https://www.facebook.com/emammehedi2003
-- 
-
-
-
-
-
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/emammehedi2003)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+8801516540119)  
