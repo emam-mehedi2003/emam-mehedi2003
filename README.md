@@ -9,6 +9,7 @@
 - Database management (SQL, MongoDB)
 - DevOps (Docker, CI/CD)
 
+.
 ##### 🌟 Interests
 - Open-source projects
 - Machine learning
@@ -19,6 +20,5 @@
 - {}
 
 
--### 🌐 Connect with Me
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/emammehedi2003)  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+8801516540119)  
+### 🌐 Connect with Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/emammehedi2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+8801516540119)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emam-mehedi-56a92b317//)  
